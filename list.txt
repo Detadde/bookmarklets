@@ -14,6 +14,6 @@
  piano
  classroom-disguise
  DOMII
- snow-in-chrome
  inject-script
  timer
+ 
