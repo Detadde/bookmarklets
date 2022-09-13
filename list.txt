@@ -17,3 +17,4 @@
  inject-script
  timer
  password-gen
+ xray-goggles
